@@ -3,7 +3,7 @@ Instituto Polit?cnico Nacional. ESIME Z.
 Materia: Fundamentos de programacion.
 Autor: Addi Trejo.
 Programa: Hola mundo
-Creado Feb 4 17:34:09 2018
+Creado Feb 4 17:34:09 2016
 Descrpción: Realizar un programa que imprma en la pantalla el texto "Hola mundo"
 */
 
