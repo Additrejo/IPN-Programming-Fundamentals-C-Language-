@@ -3,9 +3,9 @@
 Instituto Polit?cnico Nacional. ESIME Z.
 Materia: Fundamentos de programacion.
 Autor: Addi Trejo.
-Programa: Portada
+Programa: Tipos de datos
 Creado Feb 13 11:02:09 2016
-Descrpción: Este programa muestra los tipos de datos y su tamaño 
+DescrpciÃ³n: Este programa muestra los tipos de datos y su tamaÃ±o 
 */
 #include<stdio.h>
 #include<conio.h>
