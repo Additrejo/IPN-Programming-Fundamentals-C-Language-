@@ -13,6 +13,9 @@ programs menu:
 [8. Suma de dos números](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/08.suma%20de%20dos%20n%C3%BAmeros.c)  
 [9. Ejercicio operaciones artimeticas](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/09.Ejercicio%20operaciones%20aritmeticas.c)  
 [10. Ejercicio ecuación de primer grado](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/10.%20Ejercicio%20ecuaci%C3%B3n%20primer%20grado.c)  
+[11. Teorema de pitagoras](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/11.Teorema%20de%20Pitagoras.c)  
+[12. Calculo de area, circunferencia y diametro de un circulo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/12.Calculo%20de%20un%20circulo.c)  
+[13. Calculo de valor de resistencia en serie y paralelo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/12.Calculo%20de%20un%20circulo.c)  
 
 ---
 [1. Hola Mundo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/01.Hola%20mundo.c)  
@@ -53,5 +56,16 @@ Descripcion: Pedir 2 numeros al usuario y sumarlos,restarlos,multiplicarlos y di
 
 [10. Ejercicio ecuación de primer grado](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/10.%20Ejercicio%20ecuaci%C3%B3n%20primer%20grado.c)  
 Descripcion: Hacer un programa que resuelva una ecuacion de primer grado.  
-[![ajercicio-ecuacion-primer-grado-captura.jpg](https://i.postimg.cc/CKRfVpQx/ajercicio-ecuacion-primer-grado-captura.jpg)](https://postimg.cc/B8Gvxk3r)
+[![ajercicio-ecuacion-primer-grado-captura.jpg](https://i.postimg.cc/CKRfVpQx/ajercicio-ecuacion-primer-grado-captura.jpg)](https://postimg.cc/B8Gvxk3r)  
 
+[11. Teorema de pitagoras](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/11.Teorema%20de%20Pitagoras.c)  
+Descripcion: Este programa calcula la hipotenusa de un triangulo rectangulo usando el teorema de pitagoras.  
+[![teorema-de-pitagoras-captura.jpg](https://i.postimg.cc/Pq4prxCn/teorema-de-pitagoras-captura.jpg)](https://postimg.cc/4KYNWXvW)  
+
+[12. Calculo de area, circunferencia y diametro de un circulo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/12.Calculo%20de%20un%20circulo.c)  
+Descripcion: Este programa que calcula el area, circunferencia y diametro de un circulo ingresando el radio.  
+[![calculo-de-un-circulo-captura.jpg](https://i.postimg.cc/JhnD08Zy/calculo-de-un-circulo-captura.jpg)](https://postimg.cc/Yv5qDJXk)  
+
+[13. Calculo de valor de resistencia en serie y paralelo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/12.Calculo%20de%20un%20circulo.c)  
+Descripcion: Este programa calcula la resistencia en serie y paralelo. Los valores de resistencia R1 y R2 son dados por el usuario.  
+[![Calculo-resistencia-serie-paralelo-captura.jpg](https://i.postimg.cc/h4bSkwQN/Calculo-resistencia-serie-paralelo-captura.jpg)](https://postimg.cc/7bh87KVN)
