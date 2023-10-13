@@ -16,6 +16,7 @@ programs menu:
 [11. Teorema de pitagoras](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/11.Teorema%20de%20Pitagoras.c)  
 [12. Calculo de area, circunferencia y diametro de un circulo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/12.Calculo%20de%20un%20circulo.c)  
 [13. Calculo de valor de resistencia en serie y paralelo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/12.Calculo%20de%20un%20circulo.c)  
+[14. Expresion matematica 1.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/14.%20expresion%20matematica%201.c)  
 
 ---
 [1. Hola Mundo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/01.Hola%20mundo.c)  
@@ -68,4 +69,9 @@ Descripcion: Este programa que calcula el area, circunferencia y diametro de un 
 
 [13. Calculo de valor de resistencia en serie y paralelo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/12.Calculo%20de%20un%20circulo.c)  
 Descripcion: Este programa calcula la resistencia en serie y paralelo. Los valores de resistencia R1 y R2 son dados por el usuario.  
-[![Calculo-resistencia-serie-paralelo-captura.jpg](https://i.postimg.cc/h4bSkwQN/Calculo-resistencia-serie-paralelo-captura.jpg)](https://postimg.cc/7bh87KVN)
+[![Calculo-resistencia-serie-paralelo-captura.jpg](https://i.postimg.cc/h4bSkwQN/Calculo-resistencia-serie-paralelo-captura.jpg)](https://postimg.cc/7bh87KVN)  
+
+[14. Expresion matematica 1.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/14.%20expresion%20matematica%201.c)  
+Descripcion: Este programa resuelve la siguiente expresion matematica.  
+[![1-suma-captura.jpg](https://i.postimg.cc/9XdJ6D48/1-suma-captura.jpg)](https://postimg.cc/vDmr9Htf)  
+[![1-suma-programa-captura.jpg](https://i.postimg.cc/T1sw7dXr/1-suma-programa-captura.jpg)](https://postimg.cc/vxWbDdTB)
