@@ -3,7 +3,7 @@
 Instituto Politecnico Nacional. ESIME Z.
 Materia: Fundamentos de programacion.
 Autor: Addi Trejo.
-Programa: 15.Calcular el porcentaje de hombres y mujeres.
+Programa: 17.Calcular el porcentaje de hombres y mujeres.
 Creado Feb 20 23:39:02 2016
 Descripcion: Elabore un programa en C que calcule el porcentaje de la presencia de hombres y mujeres.
 ----------------------------------------------------------------------------------------------------------
