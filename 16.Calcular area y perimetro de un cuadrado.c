@@ -1,5 +1,14 @@
-/*Calcular el area y el perimetro de un cuadrado*/
 
+/*
+-------------------------------------------------------------------------------------------------------------------
+Instituto Politecnico Nacional. ESIME Z.
+Materia: Fundamentos de programacion.
+Autor: Addi Trejo.
+Programa: 16.Calcular el area y el perimetro de un cuadrado
+Creado Feb 19 16:40:24 2016
+Descripcion:Elaborar un programa para calcular el area y el perimetro de un cuadrado
+----------------------------------------------------------------------------------------------------------
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
