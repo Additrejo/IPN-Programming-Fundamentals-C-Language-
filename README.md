@@ -15,8 +15,11 @@ programs menu:
 [10. Ejercicio ecuación de primer grado](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/10.%20Ejercicio%20ecuaci%C3%B3n%20primer%20grado.c)  
 [11. Teorema de pitagoras](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/11.Teorema%20de%20Pitagoras.c)  
 [12. Calculo de area, circunferencia y diametro de un circulo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/12.Calculo%20de%20un%20circulo.c)  
-[13. Calculo de valor de resistencia en serie y paralelo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/12.Calculo%20de%20un%20circulo.c)  
-[14. Expresion matematica 1.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/14.%20expresion%20matematica%201.c)  
+[13. Calculo de valor de resistencia en serie y paralelo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/13.Calculo%20resistencias%20en%20serie%20y%20paralelo.c)  
+[14. Expresion matematica 1.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/14.Expresion%20matematica.c)  
+[15. Calcular frecuencia de resonancia y sus periodos de oscilador](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/15.Frecuencia%20de%20resonancia%20y%20periodos%20de%20un%20oscilador.c)  
+[16. Calcular el area y el perimetro de un cuadrado](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/16.Calcular%20area%20y%20perimetro%20de%20un%20cuadrado.c)  
+[17.Calcular el porcentaje de hombres y mujeres en un lugar.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/17.Porcentaje%20de%20hombres%20y%20mujeres.c)
 
 ---
 [1. Hola Mundo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/01.Hola%20mundo.c)  
@@ -75,3 +78,15 @@ Descripcion: Este programa calcula la resistencia en serie y paralelo. Los valor
 Descripcion: Este programa resuelve la siguiente expresion matematica.  
 [![1-suma-captura.jpg](https://i.postimg.cc/9XdJ6D48/1-suma-captura.jpg)](https://postimg.cc/vDmr9Htf)  
 [![1-suma-programa-captura.jpg](https://i.postimg.cc/T1sw7dXr/1-suma-programa-captura.jpg)](https://postimg.cc/vxWbDdTB)
+
+[15. Calcular frecuencia de resonancia y sus periodos de oscilador](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/15.Frecuencia%20de%20resonancia%20y%20periodos%20de%20un%20oscilador.c)  
+Descripcion: programa en C que calcula la frecuencia de resonancia y sus periodos de un oscilador. Los valores de C1,C2 y l son proporcinados por el usuario.
+[![15-calcular-frecuencia-de-resonancia-captura.jpg](https://i.postimg.cc/25yVFd7B/15-calcular-frecuencia-de-resonancia-captura.jpg)](https://postimg.cc/xkrf9z70)
+
+[16. Calcular el area y el perimetro de un cuadrado](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/16.Calcular%20area%20y%20perimetro%20de%20un%20cuadrado.c)  
+Descripcion: Programa para calcular el area y el perimetro de un cuadrado.
+[![15-area-y-perimetro-de-un-cuadrado.jpg](https://i.postimg.cc/1tC15Vj0/15-area-y-perimetro-de-un-cuadrado.jpg)](https://postimg.cc/1nqjvXP4)
+
+[17.Calcular el porcentaje de hombres y mujeres en un lugar.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/17.Porcentaje%20de%20hombres%20y%20mujeres.c)
+Descripcion: Programa en que calcula el porcentaje de la presencia de hombres y mujeres en un lugar.
+[![17-Porcentaje-de-hombres-y-mujeres-captura.jpg](https://i.postimg.cc/tgDFJ9tt/17-Porcentaje-de-hombres-y-mujeres-captura.jpg)](https://postimg.cc/kV62h3HB)
