@@ -3,23 +3,26 @@ These are my C programming fundamentals practices during my first year in commun
 
 programs menu:
 
-[1. Hola Mundo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/01.Hola%20mundo.c)  
-[2. Portada](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/02.Portada.cpp)  
-[3. Tipos de datos](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/03.Tipos%20de%20datos.c)  
-[4. Tipos de datos - macros](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/04.Tipos%20de%20datos%20-%20macros.c)  
-[5. Tipos de Entradas y salidas](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/05.Tipos%20de%20entradas%20y%20salidas.c)  
-[6. Entradas y salidas (Strings)- Ejercicio Nombre y apellidos](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/06.Entrada%20tipo%20string.c)  
-[7. Operadores de asignación (Suma)](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/07.Operadores%20de%20Asignacion.c)  
-[8. Suma de dos números](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/08.suma%20de%20dos%20n%C3%BAmeros.c)  
-[9. Ejercicio operaciones artimeticas](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/09.Ejercicio%20operaciones%20aritmeticas.c)  
-[10. Ejercicio ecuación de primer grado](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/10.%20Ejercicio%20ecuaci%C3%B3n%20primer%20grado.c)  
-[11. Teorema de pitagoras](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/11.Teorema%20de%20Pitagoras.c)  
-[12. Calculo de area, circunferencia y diametro de un circulo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/12.Calculo%20de%20un%20circulo.c)  
-[13. Calculo de valor de resistencia en serie y paralelo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/13.Calculo%20resistencias%20en%20serie%20y%20paralelo.c)  
+[1. Hola Mundo.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/01.Hola%20mundo.c)  
+[2. Portada.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/02.Portada.cpp)  
+[3. Tipos de datos.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/03.Tipos%20de%20datos.c)  
+[4. Tipos de datos - macros.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/04.Tipos%20de%20datos%20-%20macros.c)  
+[5. Tipos de Entradas y salidas.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/05.Tipos%20de%20entradas%20y%20salidas.c)  
+[6. Entradas y salidas (Strings)- Ejercicio Nombre y apellidos.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/06.Entrada%20tipo%20string.c)  
+[7. Operadores de asignación (Suma).](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/07.Operadores%20de%20Asignacion.c)  
+[8. Suma de dos números.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/08.suma%20de%20dos%20n%C3%BAmeros.c)  
+[9. Ejercicio operaciones artimeticas.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/09.Ejercicio%20operaciones%20aritmeticas.c)  
+[10. Ejercicio ecuación de primer grado.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/10.%20Ejercicio%20ecuaci%C3%B3n%20primer%20grado.c)  
+[11. Teorema de pitagoras.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/11.Teorema%20de%20Pitagoras.c)  
+[12. Calculo de area, circunferencia y diametro de un circulo.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/12.Calculo%20de%20un%20circulo.c)  
+[13. Calculo de valor de resistencia en serie y paralelo.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/13.Calculo%20resistencias%20en%20serie%20y%20paralelo.c)  
 [14. Expresion matematica 1.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/14.Expresion%20matematica.c)  
-[15. Calcular frecuencia de resonancia y sus periodos de oscilador](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/15.Frecuencia%20de%20resonancia%20y%20periodos%20de%20un%20oscilador.c)  
-[16. Calcular el area y el perimetro de un cuadrado](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/16.Calcular%20area%20y%20perimetro%20de%20un%20cuadrado.c)  
-[17.Calcular el porcentaje de hombres y mujeres en un lugar.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/17.Porcentaje%20de%20hombres%20y%20mujeres.c)
+[15. Calcular frecuencia de resonancia y sus periodos de oscilador.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/15.Frecuencia%20de%20resonancia%20y%20periodos%20de%20un%20oscilador.c)  
+[16. Calcular el area y el perimetro de un cuadrado.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/16.Calcular%20area%20y%20perimetro%20de%20un%20cuadrado.c)  
+[17. Calcular el porcentaje de hombres y mujeres en un lugar.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/17.Porcentaje%20de%20hombres%20y%20mujeres.c)  
+[18. Calcular intensidad y potencia electrica.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/18.Intencidad%20y%20potencia%20electrica.c)  
+[19. Efecto domino.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/19.Efecto%20domino.c)  
+[20. Divisor de voltaje (Vout y potencia).](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/20.Divisor%20de%20voltaje%20(Vout%20y%20Potencia).c)
 
 ---
 [1. Hola Mundo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/01.Hola%20mundo.c)  
@@ -90,3 +93,15 @@ Descripcion: Programa para calcular el area y el perimetro de un cuadrado.
 [17.Calcular el porcentaje de hombres y mujeres en un lugar.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/17.Porcentaje%20de%20hombres%20y%20mujeres.c)
 Descripcion: Programa en que calcula el porcentaje de la presencia de hombres y mujeres en un lugar.
 [![17-Porcentaje-de-hombres-y-mujeres-captura.jpg](https://i.postimg.cc/tgDFJ9tt/17-Porcentaje-de-hombres-y-mujeres-captura.jpg)](https://postimg.cc/kV62h3HB)
+
+[18. Calcular intensidad y potencia electrica.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/17.Porcentaje%20de%20hombres%20y%20mujeres.c)
+Descripcion: Programa en que calcula la intensidad y la potencia electrica.
+[![intensidad-y-potencia-electrica-captura.jpg](https://i.postimg.cc/VLfhYcZh/intensidad-y-potencia-electrica-captura.jpg)](https://postimg.cc/JtFxqSL3)
+
+[19. Efecto domino.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/19.Efecto%20domino.c)  
+Descripcion: Programa que anima el efecto domino.
+[![19-Efecto-domino.jpg](https://i.postimg.cc/25gy4DKj/19-Efecto-domino.jpg)](https://postimg.cc/1gcyQLSb)
+
+[20. Divisor de voltaje (Vout y potencia).](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/20.Divisor%20de%20voltaje%20(Vout%20y%20Potencia).c)
+Descripcion: Programa divisor de voltaje, ingresando voltaje de entrada y el valor de dos resistencias. dandonos el valor del voltaje de salida y la potencia.
+[![20-Divisor-de-voltaje-Vout-y-potencia.jpg](https://i.postimg.cc/VsVGnHYG/20-Divisor-de-voltaje-Vout-y-potencia.jpg)](https://postimg.cc/NLRkwD2m)
