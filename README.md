@@ -22,7 +22,12 @@ programs menu:
 [17. Calcular el porcentaje de hombres y mujeres en un lugar.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/17.Porcentaje%20de%20hombres%20y%20mujeres.c)  
 [18. Calcular intensidad y potencia electrica.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/18.Intencidad%20y%20potencia%20electrica.c)  
 [19. Efecto domino.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/19.Efecto%20domino.c)  
-[20. Divisor de voltaje (Vout y potencia).](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/20.Divisor%20de%20voltaje%20(Vout%20y%20Potencia).c)
+[20. Divisor de voltaje (Vout y potencia).](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/20.Divisor%20de%20voltaje%20(Vout%20y%20Potencia).c)  
+[21. Serie de ULAM.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/21.Serie%20de%20ULAM.c)  
+[22. Serie de Fibonacci.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/22.Serie%20de%20Fibonacci.c)  
+[23. Factorial de un numero.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/23.Factorial%20de%20un%20numero.c)  
+[24. Teclado musical.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/24.Teclado%20musical.c)  
+
 
 ---
 [1. Hola Mundo](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/01.Hola%20mundo.c)  
@@ -104,4 +109,22 @@ Descripcion: Programa que anima el efecto domino.
 
 [20. Divisor de voltaje (Vout y potencia).](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/20.Divisor%20de%20voltaje%20(Vout%20y%20Potencia).c)
 Descripcion: Programa divisor de voltaje, ingresando voltaje de entrada y el valor de dos resistencias. dandonos el valor del voltaje de salida y la potencia.
-[![20-Divisor-de-voltaje-Vout-y-potencia.jpg](https://i.postimg.cc/VsVGnHYG/20-Divisor-de-voltaje-Vout-y-potencia.jpg)](https://postimg.cc/NLRkwD2m)
+[![20-Divisor-de-voltaje-Vout-y-potencia.jpg](https://i.postimg.cc/VsVGnHYG/20-Divisor-de-voltaje-Vout-y-potencia.jpg)](https://postimg.cc/NLRkwD2m)  
+
+[21. Serie de ULAM.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/21.Serie%20de%20ULAM.c)  
+Descripcion: Elabore un programa en C. que desarrolle la serie de ULAM, la cual se obtiene a partir de los siguientes pasos.
+[![Seriede-ULAM.jpg](https://i.postimg.cc/zvRXn9Fr/Seriede-ULAM.jpg)](https://postimg.cc/ct0SWkz9)  
+
+[22. Serie de Fibonacci.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/22.Serie%20de%20Fibonacci.c)  
+Descripcion: Elabore un programa en C. que desarrolle los primeros n terminos de la serie de fibonacci
+la cual inicia con los terminos. 1,1,2,3,5....n. y los demas se obtiene de la suma de los 2 anteriores.
+[![22-Serie-de-Fibonacci.jpg](https://i.postimg.cc/GmJGNh49/22-Serie-de-Fibonacci.jpg)](https://postimg.cc/9D0Dw2tj)  
+
+[23. Factorial de un numero.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/23.Factorial%20de%20un%20numero.c)  
+Descripcion: Elabore un programa en C que muestre el factorial de un numero dado por un usuario.  
+[![23-Factorial-de-un-numero.jpg](https://i.postimg.cc/TYrKYdrx/23-Factorial-de-un-numero.jpg)](https://postimg.cc/4mxfWTL2)
+
+[24. Teclado musical.](https://github.com/Additrejo/IPN-Programming-Fundamentals/blob/main/24.Teclado%20musical.c)  
+Descripcion: Elabore un programa en C, utilizando funciones para simular un teclado musical.
+considere el uso de la funcion creada para calcular la frecuencia de las notas musicales.
+[![24-Teclado-musical.jpg](https://i.postimg.cc/PqFxFPkW/24-Teclado-musical.jpg)](https://postimg.cc/Ff3NYFzz)
