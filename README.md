@@ -1,5 +1,8 @@
-# IPN - Programming Fundamentals. 📚 🖥️
-These are my C programming fundamentals practices during my first year in communications and electronics at the Instituto Politécnico Nacional.
+# IPN - Programming Fundamentals  / Fundamentos de programación IPN. 📚 🖥️  
+These are my C programming fundamentals practices during my first year in communications and electronics at the Instituto Politécnico Nacional.  
+
+Estas son mis prácticas de fundamentos de programación en C durante mi primer año en comunicaciones y electrónica en el Instituto Politécnico Nacional.
+-
 
 programs menu:
 
